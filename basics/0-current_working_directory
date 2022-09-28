@@ -1,5 +1,3 @@
 #!/bin/bash
 
-echo "tu directorio actual es:"
-
 'pwd' 
