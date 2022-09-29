@@ -1,4 +1,3 @@
 #!/bin/bash
 (ls -la)
-
 echo "todos los comandos se ejecutaron"
