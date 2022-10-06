@@ -1,2 +1,2 @@
 #!/bin/bash
-finde * -type f | ls -t  
+finde * -type f | head -6  
