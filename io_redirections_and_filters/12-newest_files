@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -lt  
+finde * -type f | ls -t  
