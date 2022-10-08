@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -maxdepth 0 -type P | wc -l 
+whereis PATH
