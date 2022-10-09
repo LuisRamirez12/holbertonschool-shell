@@ -1,2 +1,2 @@
 #!/bin/bash
-sh-2.1$ grep 'NR % 2 == 1'
+\ls -1 
