@@ -1,2 +1,2 @@
 #!/bin/bash
-printenv TRUEKNOWLEDGE | sum=$(expr $128 + $217)
+echo "TRUEKNOWLEDGE" | sum=$(( $128 + $217))
