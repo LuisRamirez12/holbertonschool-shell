@@ -1,2 +1,2 @@
 #!/bin/bash
-tr 'A-Za-z' 'N-ZA-Mn-za-m' <<< 'Assume ASCII'
+echo 'Assume ASCII' 'Nffhzr NFPVV' | tr A-Za-z N-ZA-Mn-za-m 
