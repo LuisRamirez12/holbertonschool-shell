@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $((10i#FF))
+printf "%d\n" "0x$16" $DECIMAL 
