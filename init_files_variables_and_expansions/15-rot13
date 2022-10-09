@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Assume ASCII" | tr 'a-zA-Z' 'n-za-mN-ZA-N'
+echo "Assume ASCII" | tr A-Za-z N-ZA-Mn-za-m 
