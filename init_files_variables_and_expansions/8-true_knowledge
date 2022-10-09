@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "TRUEKNOWLEDGE" | sum=$(( $128 + $217))
+echo "TRUEKNOWLEDGE" expr=$(( $128 + $217))
