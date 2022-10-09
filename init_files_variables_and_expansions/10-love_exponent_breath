@@ -1,2 +1,2 @@
 #!/bin/bash
-val=`expr BREATH + LOVE`
+val= expr BREATH + LOVE
