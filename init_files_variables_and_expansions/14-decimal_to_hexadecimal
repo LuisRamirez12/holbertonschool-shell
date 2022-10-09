@@ -1,2 +1,2 @@
 #!/bin/bash
-printf "%d\n" "0x$16" $DECIMAL 
+echo 'ibase=16; DECIMAL' | bc 
